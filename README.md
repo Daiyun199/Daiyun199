@@ -1,8 +1,13 @@
 <h2 align="center"> Do Nguyen Yen Phung </h2>
 
 <!-- Banner -->
+<!-- Ồ wow Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8c52ff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+there!+I'm+Do+Nguyen+Yen+Phung+👋;A+passionate+fullstack+developer+from+Vietnam!+🌏" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
