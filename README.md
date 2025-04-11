@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=🌟+Welcome+to+my+GitHub+🌟&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50" />
 </p>
 
 <p align="center">
