@@ -1,13 +1,11 @@
 <h2 align="center"> Do Nguyen Yen Phung </h2>
 
-<!-- Banner -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Do+Nguyen+Yen+Phung+👋;A+passionate+Fullstack+Developer+from+Vietnam!+🌏;Welcome+to+my+awesome+GitHub!+💜🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Do+Nguyen+Yen+Phung+👋;A+passionate+Fullstack+Developer+from+Vietnam!+🌏;Welcome+to+my+awesome+GitHub!+💙🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=🌟+Welcome+to+my+GitHub+🌟&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=220&section=header&text=🌟+Welcome+to+my+GitHub+🌟&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50" />
 </p>
 
 <p align="center">
