@@ -3,11 +3,15 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Do+Nguyen+Yen+Phung+👋;A+Fullstack+Developer+from+Vietnam!+🌏" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Do+Nguyen+Yen+Phung+👋;A+passionate+Fullstack+Developer+from+Vietnam!+🌏;Welcome+to+my+awesome+GitHub!+💜🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,DA70D6&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=36&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  💻 Code | 🎨 Create | 🚀 Explore | 💬 Connect  
 </p>
 
 ## 🌟 About Me
