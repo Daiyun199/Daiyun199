@@ -39,8 +39,8 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daiyun199&show_icons=true&locale=en&theme=default&bg_color=ffffff&title_color=1E90FF&icon_color=87CEFA&text_color=000000" alt="Daiyun199 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daiyun199&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff&title_color=1E90FF&text_color=000000" alt="Daiyun199 Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daiyun199&show_icons=true&locale=en&theme=blueberry" alt="Daiyun199" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daiyun199&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Daiyun199" />
 </div>
 
 ---
