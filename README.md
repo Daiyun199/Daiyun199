@@ -36,6 +36,23 @@
 
 ---
 
+## 🧠 Animated Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=1E90FF&center=true&width=435&lines=JavaScript;TypeScript;ReactJS;Next.js;.NET;Spring+Boot;Node.js" />
+</p>
+
+---
+
+## 🎯 Fun Facts About Me
+
+- 🧠 I enjoy solving complex problems
+- 🎨 I love designing beautiful UIs
+- 🎮 Gamer by night: fan of RPGs and strategy games
+- ✈️ Dreaming of traveling the world one country at a time
+
+---
+
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -61,8 +78,22 @@
 
 ---
 
+## 🌍 Visitor Badge
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Daiyun199&label=Visitors&countColor=1E90FF" />
+</p>
+
+---
+
 ## 👁️ Profile View Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Daiyun199&color=1E90FF" alt="profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1E90FF,87CEFA&height=80&section=footer"/>
 </p>
